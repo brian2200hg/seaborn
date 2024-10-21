@@ -64,6 +64,28 @@ plt.xlabel("Día de la Semana")
 plt.ylabel("Total de Cuenta Promedio")
 
 # Mostrar el gráfico
+
+python
+import seaborn as sns
+import matplotlib.pyplot as plt
+
+# Cargar datos de ejemplo
+tips = sns.load_dataset("tips")
+
+# Configurar el estilo
+sns.set_style("whitegrid")
+sns.set_context("talk")
+
+# Crear un gráfico de barras
+plt.figure(figsize=(10, 6))
+sns.barplot(x="day", y="total_bill", data=tips, palette="deep")
+
+# Personalizar título y etiquetas
+plt.title("Promedio de Total de Cuenta por Día")
+plt.xlabel("Día de la Semana")
+plt.ylabel("Total de Cuenta Promedio")
+
+# Mostrar el gráfico
 plt.show()
 
 
