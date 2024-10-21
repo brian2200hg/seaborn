@@ -9,19 +9,33 @@ Seaborn incluye varios tipos de gráficos para diferentes tipos de análisis. Al
 
    ¡ Gráficos de dispersión (scatterplot): Muestra la relación entre dos variables cuantitativas.
 
+   ![grafico-dispersion-seaborn-edgecolor](https://github.com/user-attachments/assets/045daba3-0024-446f-9ac9-519b8a268fdf)
+
    ¡ Gráficos de líneas (lineplot): Ideal para mostrar tendencias a lo largo del tiempo.
+   ![lineplot-linewidth-seaborn](https://github.com/user-attachments/assets/8f6bdc37-1c42-4f1f-96d7-eec0d2a58bea)
 
    ¡ Histogramas (histplot): Útiles para mostrar la distribución de una variable.
 
+   ![histplot-seaborn](https://github.com/user-attachments/assets/84f4cea6-daae-4b25-b37a-dae099f7d8f1)
+
    ¡ Gráficos de barras (barplot): Muestra la media de una variable categórica, con intervalos de confianza.
+   ![grafico-barras-color-seaborn](https://github.com/user-attachments/assets/fc9a322c-cdd5-4d37-830c-6ef8db3f2617)
+
 
    ¡ Boxplots (boxplot): Representa la distribución de una variable numérica agrupada por una variable categórica.
 
+   ![tutorial_sns_catplot_11](https://github.com/user-attachments/assets/0d6c380c-ef27-46b2-82be-a704e46f9de9)
+
+
    ¡ Gráficos de violín (violinplot): Similar a los boxplots, pero también muestra la densidad de los datos.
+   ![tutorial_sns_catplot_22](https://github.com/user-attachments/assets/080c08b6-027e-45dc-9ce4-bed2375ffefd)
 
    ¡ Pairplot: Muestra todas las combinaciones posibles de gráficos de dispersión entre pares de variables.
+   ![pairplot-seaborn](https://github.com/user-attachments/assets/6382ad46-8a19-46b7-8bbf-f868b9ea1291)
 
    ¡ Heatmaps: Ideal para mostrar matrices de correlación o datos en formato de tabla.
+   ![0 GbN4u402_BPA6xHz](https://github.com/user-attachments/assets/c441adb2-a124-4c60-bcaf-84b911e119e1)
+
 
    # Estilos para una Presentación Más Profesional
 
